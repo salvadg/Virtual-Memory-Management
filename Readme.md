@@ -1,5 +1,5 @@
 ### ABOUT
-Virtual Memory (VM) manager simulation.
+Basic Virtual Memory (VM) manager simulation.
 VM manager initializes the Physical Memory (PM) from an input file consisting of 2 lines
 - Line 1 contains triples of integers, which define the contents of the ST
 - Line 2 contains triples of integers, which define the contents of the PTs
